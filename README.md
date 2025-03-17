@@ -2,7 +2,7 @@
 A Reinforcement Learning model trained to empower the Mumbai Taxi learn to navigate the bustling streets of Mumbai
 
 
-![RL Agent](images\running_image.png)
+![RL Agent](images/running_image.png)
 
 ## Overview
 
@@ -10,10 +10,10 @@ This project implements a Deep Q-Network (DQN) to train a virtual taxi to drive 
 
 ## Key Files
 
--   [ai.py](RL-Mumbai-Taxi-Project\ai.py): Contains the DQN implementation, including the neural network architecture and learning logic.
--   [map.py](RL-Mumbai-Taxi-Project\map.py): Implements the game environment, car dynamics, and reward system.
--   [car.kv](RL-Mumbai-Taxi-Project\car.kv): Defines the Kivy UI elements for the car and environment.
--   [images/](RL-Mumbai-Taxi-Project\images\): Contains images for the map, car, and other visual elements.
+-   [ai.py](RL-Mumbai-Taxi-Project/ai.py): Contains the DQN implementation, including the neural network architecture and learning logic.
+-   [map.py](RL-Mumbai-Taxi-Project/map.py): Implements the game environment, car dynamics, and reward system.
+-   [car.kv](RL-Mumbai-Taxi-Project/car.kv): Defines the Kivy UI elements for the car and environment.
+-   [images/](RL-Mumbai-Taxi-Project/images/): Contains images for the map, car, and other visual elements.
 
 ## Dependencies
 
@@ -34,4 +34,4 @@ python map.py
 
 ## Training logs
 
-![Logs image](images\Figure_1.png)
+![Logs image](images/Figure_1.png)
